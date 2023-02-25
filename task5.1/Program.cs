@@ -19,7 +19,6 @@ int[] FillArray(int[] array)
     System.Console.WriteLine();
     return array;
 }
-// метод показывает количество четных чисел в массиве
 
 int TakeEvenArray(int[] array)
 {
@@ -45,5 +44,3 @@ int[] mainArray = new int[userNum];
 FillArray(mainArray);
 PrintArray(mainArray);
 Console.WriteLine($"Количество четных чисел в массиве {TakeEvenArray(mainArray)}");
-// Console.Write($"Количество четных чисел в массиве {TakeEvenArray(mainArray)}");
-
