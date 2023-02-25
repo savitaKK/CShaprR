@@ -4,5 +4,46 @@
 int InputUser(string message)
 {
     System.Console.Write($"{message} =>");
-
+    int takeNumber = Convert.ToInt32(Console.ReadLine());
+    return takeNumber;
 }
+
+
+int[] FillArray(int[] array)
+{
+    Random random = new Random();
+    for (int i = 0; i < array.Length; i++)
+    {
+        array[i] = random.Next(100, 1000);
+    }
+    System.Console.WriteLine();
+    return array;
+}
+// метод показывает количество четных чисел в массиве
+
+int TakeEvenArray(int[] array)
+{
+    int result = 0;
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i] % 2 == 0) result++;
+    }
+    return result;
+}
+void PrintArray(int[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]}  ");
+
+    }
+    System.Console.WriteLine();
+}
+
+int userNum = InputUser("Введите количество элементов массива");
+int[] mainArray = new int[userNum];
+FillArray(mainArray);
+PrintArray(mainArray);
+Console.WriteLine($"Количество четных чисел в массиве {TakeEvenArray(mainArray)}");
+// Console.Write($"Количество четных чисел в массиве {TakeEvenArray(mainArray)}");
+
