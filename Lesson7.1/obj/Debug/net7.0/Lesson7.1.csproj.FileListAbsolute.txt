@@ -1,0 +1,15 @@
+D:\ОБУЧЕНИЕ СВЕТА\1 курс\Csharp\lesson4\Lesson7.1\bin\Debug\net7.0\Lesson7.1.exe
+D:\ОБУЧЕНИЕ СВЕТА\1 курс\Csharp\lesson4\Lesson7.1\bin\Debug\net7.0\Lesson7.1.deps.json
+D:\ОБУЧЕНИЕ СВЕТА\1 курс\Csharp\lesson4\Lesson7.1\bin\Debug\net7.0\Lesson7.1.runtimeconfig.json
+D:\ОБУЧЕНИЕ СВЕТА\1 курс\Csharp\lesson4\Lesson7.1\bin\Debug\net7.0\Lesson7.1.dll
+D:\ОБУЧЕНИЕ СВЕТА\1 курс\Csharp\lesson4\Lesson7.1\bin\Debug\net7.0\Lesson7.1.pdb
+D:\ОБУЧЕНИЕ СВЕТА\1 курс\Csharp\lesson4\Lesson7.1\obj\Debug\net7.0\Lesson7.1.csproj.AssemblyReference.cache
+D:\ОБУЧЕНИЕ СВЕТА\1 курс\Csharp\lesson4\Lesson7.1\obj\Debug\net7.0\Lesson7.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОБУЧЕНИЕ СВЕТА\1 курс\Csharp\lesson4\Lesson7.1\obj\Debug\net7.0\Lesson7.1.AssemblyInfoInputs.cache
+D:\ОБУЧЕНИЕ СВЕТА\1 курс\Csharp\lesson4\Lesson7.1\obj\Debug\net7.0\Lesson7.1.AssemblyInfo.cs
+D:\ОБУЧЕНИЕ СВЕТА\1 курс\Csharp\lesson4\Lesson7.1\obj\Debug\net7.0\Lesson7.1.csproj.CoreCompileInputs.cache
+D:\ОБУЧЕНИЕ СВЕТА\1 курс\Csharp\lesson4\Lesson7.1\obj\Debug\net7.0\Lesson7.1.dll
+D:\ОБУЧЕНИЕ СВЕТА\1 курс\Csharp\lesson4\Lesson7.1\obj\Debug\net7.0\refint\Lesson7.1.dll
+D:\ОБУЧЕНИЕ СВЕТА\1 курс\Csharp\lesson4\Lesson7.1\obj\Debug\net7.0\Lesson7.1.pdb
+D:\ОБУЧЕНИЕ СВЕТА\1 курс\Csharp\lesson4\Lesson7.1\obj\Debug\net7.0\Lesson7.1.genruntimeconfig.cache
+D:\ОБУЧЕНИЕ СВЕТА\1 курс\Csharp\lesson4\Lesson7.1\obj\Debug\net7.0\ref\Lesson7.1.dll
